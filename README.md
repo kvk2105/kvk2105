@@ -1,4 +1,7 @@
-## Hi there. Its my personal github space where i keep adding some tech learnings, side hustles, projects outside regular work etc.👋
+## Hi there 👋
+
+Its my personal github space where i keep adding some tech learnings, side hustles, projects outside regular work etc.
+
 ![Profile views](https://komarev.com/ghpvc/?username=kvk2105)
 
 <!--
